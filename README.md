@@ -43,3 +43,6 @@ Add dynamic updates for fallback rates to always stay accurate
 👤 About the Author
 
 This project is 100% my own work. It demonstrates the skills I acquired in CS50, from problem-solving and programming to GUI design and user experience. I’m proud to present this as my final CS50 project, showing practical, functional, and visually appealing software built from scratch.ect reflects my problem-solving skills, creativity, and attention to detail.
+
+![Captura de tela 2025-08-30 234813](https://github.com/user-attachments/assets/eedc087e-3e44-4489-92ef-2f19d92321d8)
+
